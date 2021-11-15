@@ -1,0 +1,6 @@
+C:\Users\CHEFS\Downloads\Bankdaten02 (1)\Bankdaten\Bankdaten\bin\Debug\Bankdaten.exe.config
+C:\Users\CHEFS\Downloads\Bankdaten02 (1)\Bankdaten\Bankdaten\bin\Debug\Bankdaten.exe
+C:\Users\CHEFS\Downloads\Bankdaten02 (1)\Bankdaten\Bankdaten\bin\Debug\Bankdaten.pdb
+C:\Users\CHEFS\Downloads\Bankdaten02 (1)\Bankdaten\Bankdaten\obj\Debug\Bankdaten.csprojAssemblyReference.cache
+C:\Users\CHEFS\Downloads\Bankdaten02 (1)\Bankdaten\Bankdaten\obj\Debug\Bankdaten.exe
+C:\Users\CHEFS\Downloads\Bankdaten02 (1)\Bankdaten\Bankdaten\obj\Debug\Bankdaten.pdb
